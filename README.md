@@ -1,7 +1,7 @@
 # Olá, Eu sou o Blucio Castro 
 
 <p align="left">
-  💻 Desenvolvedor em formação <br/>
+  💻 Desenvolvedor Front-End em formação <br/>
   🚀 Estudando e criando projetos com HTML, CSS, JavaScript e Python <br/>
   📚 Apaixonado por tecnologia e por aprender coisas novas
 </p>
