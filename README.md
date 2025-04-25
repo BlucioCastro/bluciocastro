@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Estatísticas
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
-  <img height="150" style="margin: 0; padding: 0;" src="https://github-readme-stats.vercel.app/api?username=bluciocastro&show_icons=true&theme=tokyonight"/>
+  <img height="150" style="margin: 0; padding: 0;" src="https://github-readme-stats.vercel.app/api?username=BlucioCastro&show_icons=true&theme=tokyonight"/>
   <img height="150" style="margin: 0; padding: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluciocastro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
 
